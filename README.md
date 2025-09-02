@@ -23,7 +23,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  puzzle_reward_package:^1.0.0
+  puzzle_game:^1.0.0
 ```
 
 Run:
@@ -37,7 +37,7 @@ flutter pub get
 
 ### Import the package
 ```dart
-import 'package:puzzle_reward_package/puzzle_reward_package.dart';
+import 'package:puzzle_game/puzzle_game.dart';
 ```
 
 ### Example with SharedPreferences
@@ -206,3 +206,6 @@ Contributions are welcome! Please fork the repo and submit a PR.
 ## 📜 License
 This project is licensed under the MIT License.
 
+
+## 📜 Changelog
+See [CHANGELOG.md](CHANGELOG.md) for details.
