@@ -1,7 +1,9 @@
 name: puzzle_game
 description: "description: A Flutter package for creating interactive puzzle games with rewards and customizable storage options."
 version: 1.0.0
-homepage:
+homepage: https://github.com/HarshAshGangar/puzzle_game
+repository: https://github.com/HarshAshGangar/puzzle_game
+issue_tracker: https://github.com/HarshAshGangar/puzzle_game/issues
 
 environment:
   sdk: ^3.7.0
@@ -10,11 +12,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  shared_preferences:
-  lottie:
-  flutter_svg:
-  http:
-  cloud_firestore:
+  shared_preferences: ^2.5.3
+  lottie: ^3.3.1
+  flutter_svg: ^2.2.0
+  http: ^1.5.0
+  cloud_firestore: ^6.0.1
 
 dev_dependencies:
   flutter_test:

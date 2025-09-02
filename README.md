@@ -174,25 +174,25 @@ PuzzleGameScreen(
 ---
 
 ## 📸 Screenshots
-### 🔒 Locked State
-![Locked](screenshots/locked.jpg)
 
-### 🔓 Unlocked State
-![Unlocked](screenshots/unlocked.jpg)
+### Locked Piece
+![Locked Piece](https://raw.githubusercontent.com/HarshAshGangar/puzzle_game/master/screenshots/locked.jpg)
 
-### 🧩 Puzzle Gameplay (4x4 Board)
-![Puzzle Gameplay](screenshots/4x4.jpg)
+### Unlocked Piece
+![Unlocked Piece](https://raw.githubusercontent.com/HarshAshGangar/puzzle_game/master/screenshots/unlocked.jpg)
 
-### 🎉 Completion Screen
-![End](screenshots/end.jpg)
----
+### Puzzle Board
+![Puzzle Board](https://raw.githubusercontent.com/HarshAshGangar/puzzle_game/master/screenshots/4x4.jpg)
+
+### Congrats Screen
+![End](https://raw.githubusercontent.com/HarshAshGangar/puzzle_game/master/screenshots/end.jpg)
 
 ## 🛠️ Development
 
 Clone the repo and run example:
 ```bash
-git clone https://github.com/your-repo/puzzle_reward_package.git
-cd puzzle_reward_package
+git clone https://github.com/HarshAshGangar/puzzle_game.git
+cd puzzle_game
 flutter run example
 ```
 
